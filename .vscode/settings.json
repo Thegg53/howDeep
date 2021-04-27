@@ -1,0 +1,7 @@
+{
+    "spellright.ignoreFiles": [
+        "**/.gitignore",
+        "**/.spellignore", 
+        "readme.md"
+    ]
+}
